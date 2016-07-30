@@ -1,7 +1,14 @@
 {
+  "name": "fis3-parser-require-text-and-css-plugin",
+  "description": "A parser plugin for fis to compile require text and css plugin.",
+  "version": "0.0.1",
   "author": {
     "name": "zhengxingcheng",
     "email": "81735595@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/81735595/fis3-parser-require-text-and-css-plugin.git"
   },
   "dependencies": {
     "fis3-preprocessor-css2js": "^0.1.2",
