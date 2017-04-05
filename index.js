@@ -14,7 +14,8 @@ module.exports = function(content, file, conf){
             break;
         case 'css':
             content = css2js.processCss(content, {
-                template: 'requirejs_runner'
+                template: 'requirejs_runner',
+                id: file.id
             });
         default:
             break;

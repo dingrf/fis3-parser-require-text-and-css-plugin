@@ -11,7 +11,7 @@
     "url": "https://github.com/81735595/fis3-parser-require-text-and-css-plugin.git"
   },
   "dependencies": {
-    "fis3-preprocessor-css2js": "^0.1.2",
+    "fis3-preprocessor-css2js": "git://github.com/81735595/fis3-preprocessor-css2js.git",
     "html2js": "^0.2.0"
   },
   "main": "index.js"
