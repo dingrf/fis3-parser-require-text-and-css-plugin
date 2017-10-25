@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/81735595/fis3-parser-require-text-and-css-plugin.git"
+    "url": "https://github.com/dingrf/fis3-parser-require-text-and-css-plugin.git"
   },
   "dependencies": {
-    "fis3-preprocessor-css2js": "git://github.com/81735595/fis3-preprocessor-css2js.git",
+    "fis3-preprocessor-css2js": "https://github.com/dingrf/fis3-preprocessor-css2js.git",
     "html2js": "^0.2.0"
   },
   "main": "index.js"
